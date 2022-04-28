@@ -30,7 +30,7 @@
       <a href="#"><img src="https://img.shields.io/badge/-React Native-black?style=flat-square&logo=React&logoColor=61DAFB" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=Python&logoColor=white" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-Express.js-404D59?style=flat-square&for-the-badge" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-Express.js-404D59?style=flat-square&logo=Express" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />  </a>
