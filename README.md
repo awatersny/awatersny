@@ -1,7 +1,9 @@
 <div>
   <img align="center" src="./images/wembley.jpg">
-  <a href="#"><img width="60.3%"src="https://github-readme-stats.vercel.app/api?username=awatersny&countprivate=true&hide=stars,issues,contribs&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark" />  </a>
-  <a href="#"><img width="38.9%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awatersny&layout=compact&theme=chartreuse-dark" /></a> 
+  <div align="center">
+    <a href="#"><img width="60.3%"src="https://github-readme-stats.vercel.app/api?username=awatersny&countprivate=true&hide=stars,issues,contribs&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark" />  </a>
+    <a href="#"><img width="38.9%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awatersny&layout=compact&theme=chartreuse-dark" /></a> 
+  </div>
   <hr>
   <h2>A few details about me:</h2>
   <h3>I’m a detail-oriented full-stack software engineer from Brooklyn, NY who excels at debugging in collaborative environments. I enjoy the problem solving aspect of this field along with the satisfaction that comes with arriving at a solution.  </h3>
