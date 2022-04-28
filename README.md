@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <img align="center" src="./images/wembley.jpg">
   <a href="#"><img width="59.9%"src="https://github-readme-stats.vercel.app/api?username=awatersny&countprivate=true&hide=stars,issues,contribs&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark" />  </a>
   <a href="#"><img width="38.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awatersny&layout=compact&theme=chartreuse-dark" /></a> 
@@ -6,7 +6,7 @@
   <h2>A few details about me:</h2>
   <h3>I’m a detail-oriented full-stack software engineer from Brooklyn, NY who excels at debugging in collaborative environments. I enjoy the problem solving aspect of this field along with the satisfaction that comes with arriving at a solution.  </h3>
   <hr>
-  <div>
+  <div align="center">
     <h3>Comfortable working in:</h3>
       <a href="#"><img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Ubuntu-FF6C37?style=flat-square&logo=Ubuntu&logoColor=white" />  </a>
@@ -14,7 +14,7 @@
 
   </div>
   <hr>
-  <div>
+  <div align="center">
       <h3>Skills:</h3>
       <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />  </a>
