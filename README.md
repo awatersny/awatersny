@@ -2,9 +2,9 @@
   <img align="center" src="./images/wembley.jpg">
   <hr>
   <div align="center">
-    <a href="#">
+<!--     <a href="#">
       <img width="60.3%"src="https://github-readme-stats.vercel.app/api?username=awatersny&count_private=true&hide=stars,issues,contribs&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark" />
-    </a>
+    </a> -->
     <a href="#">
       <img width="38.9%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awatersny&layout=compact&theme=chartreuse-dark" />
     </a> 
